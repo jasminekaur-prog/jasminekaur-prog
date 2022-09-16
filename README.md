@@ -1,5 +1,5 @@
 - Hi👋 I'm Jasmine. 
-- 👀 I’m interested in 
+- 👀 I’m interested in Coding and Problem Solving
 - 🌱 I’m currently learning and building Programming concepts 
 - 📫 How to reach me - jasminekaur6006@gmail.com
 
